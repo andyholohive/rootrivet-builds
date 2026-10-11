@@ -1,94 +1,94 @@
 {
- "build": 1791641589,
- "made": "2026-10-10T14:13:09.751Z",
+ "build": 1791689827,
+ "made": "2026-10-11T03:37:08.333Z",
  "files": [
   {
-   "p": "assets/analysis-gDe8cnnM.js",
-   "h": "2a9cb0388a38250a5ef215050f07dc62b9a52f0b354ae0819a45621c265a15b3"
+   "p": "assets/analysis-DiNX1482.js",
+   "h": "a6537f794123dc92159824bee045ca7f0db98293ae0b9e70c153f57a789ce192"
   },
   {
-   "p": "assets/art-CIGOB-S1.js",
-   "h": "56c0c3f2e9c68274f992b6918cb52a102a85cba80558d8a23ce5808293d39190"
+   "p": "assets/art-g2mNFZ0p.js",
+   "h": "2356f44d786f5e3bc7c65b2fb9c350c1d5b3eb388733917d439891a7deb9ed2e"
   },
   {
-   "p": "assets/collection-xu66oIt0.js",
-   "h": "80e74b99d727e35e0d31e4e27a608280c7eae65982206a022c56d79094d328ef"
+   "p": "assets/collection-BLHzrYOs.js",
+   "h": "3f99156a5e2149d8f4d526c1a7bb07e19a5ad96df77c6fb13b20dc32e880b4ee"
   },
   {
-   "p": "assets/devstats-BxLbdE8-.js",
-   "h": "5af981e622640073783e0e6e2e9e9833c5cfb9c03b3dbe95f45182b980f04ecd"
+   "p": "assets/devstats-D2Rm6psI.js",
+   "h": "ebea425cc365a7d8b75a6f444e4874fab85986ae5679740a3818e32baa69179f"
   },
   {
-   "p": "assets/draft-BJrCV9o3.js",
-   "h": "281576d041a75906ee11b2da2f9aa15b44608e0901b7099f6a143512846ba253"
+   "p": "assets/draft-CGKE5e4B.js",
+   "h": "eb9e698338422427825a5f6c409fa9c511b23a3373729a783e2e88d37ad434ac"
   },
   {
-   "p": "assets/drop-RzkkjNYF.js",
-   "h": "b1a4876a90f867d1a6fd893507cd001d8072a7e3119d9b00658db8f777a4c9a0"
+   "p": "assets/drop-CJekLiVW.js",
+   "h": "b3ad57585a905be55309fcfa5f4fa50e33ae561d879b971f267d6d101c69e427"
   },
   {
-   "p": "assets/event-BHNktb1w.js",
-   "h": "3cbc428dfea87ffeff1d5415fef4b3102067c0b238805fecaa9f8ca0407db6f6"
+   "p": "assets/event-D1gSQSkm.js",
+   "h": "8e0fdb737d3ba4dff977b3791284ed9ba71bb65baf1c2a46791c609e13a4d671"
   },
   {
-   "p": "assets/expedition-DnN8cNY3.js",
-   "h": "3774c44a7d1af17a9c559267752bdf457cd9824dddf07bf52caad5a06c2dc24a"
+   "p": "assets/expedition-CXf8DK1Q.js",
+   "h": "5a24fb34bb7470d88cb4ab7020c9405a6690db036c7381e3f1908af84630f638"
   },
   {
-   "p": "assets/hall-CeNkd3SA.js",
-   "h": "8aac7b195420dec7fb44cb6b75f485a5b33d80bdec12acee3f12c9cf69665719"
+   "p": "assets/hall-DcPfTIfZ.js",
+   "h": "8e81e951e3735bc58004cce76cacf617b989946b502cfaaff5a635627a3b7eb1"
   },
   {
-   "p": "assets/index-Dy5Qwf6d.js",
-   "h": "620097d1cfd09f1c302383753835c269815a4d816744a2588947454dc5f0109d"
+   "p": "assets/index-BxdO8-PK.js",
+   "h": "d24ef655465bf313e356b464c3b57d5c0cffa81c78e0780a706b81f614a5e7c9"
   },
   {
-   "p": "assets/lab-C-YpQKCM.js",
-   "h": "234079305aff2a228c7c1b9317a281f682eab5bb71b047a5d7c49aa4e7ac83ca"
+   "p": "assets/lab-BZc4wU11.js",
+   "h": "81a1455f25cb664460199e7adc0338759a8e2c05c23f22d0db97159cde1517ab"
   },
   {
-   "p": "assets/ladder-B52buwMH.js",
-   "h": "ad243d58e32ef82dc610b521cf45d6bc1301e235f3fd2461847a420083f23597"
+   "p": "assets/ladder-CjV39IiI.js",
+   "h": "9457a539b60f4ad1f52890c9afc944831445d1990496a1065ebab79938a0420c"
   },
   {
-   "p": "assets/lessons-DBYLzNJW.js",
-   "h": "dec4ba4fcd8492c9d542aa4dbfbc33e4cd2c20718d15b064d1cced4f2dc66b4e"
+   "p": "assets/lessons-bZKsgYIr.js",
+   "h": "5002022335877098673edea8313fbe68fc3149449c114520677a7fb6e14bc2a4"
   },
   {
-   "p": "assets/lobby-BEScbhGI.js",
-   "h": "bccbfb47de48353a6cac83d1146e3980efdfa9ca3b2467fc1068f0cdfd43fbb0"
+   "p": "assets/lobby-DkvQUhXT.js",
+   "h": "8973fe63b5aea9241c34b92838f88cc9787c8c99ffe5837baa210a84b34907f1"
   },
   {
-   "p": "assets/netplay-CSuM-RxN.js",
-   "h": "ba956ba9decab1c41c2ea4e26372d667bcc6803feb520eeda6e1cf795d18ba11"
+   "p": "assets/netplay-BNeM3GsT.js",
+   "h": "8e46921878fa919e35dc7545f955851478ddb4559d9712fbe2ce18bad3207b13"
   },
   {
-   "p": "assets/online-CGmSApto.js",
-   "h": "7e3e9ec4a42699238df21f6579218a22a99fba6e1b52755e746b48b397e29783"
+   "p": "assets/online-CoJRqAA0.js",
+   "h": "94f8bda7115e54bbfb9d5774d2c821ed79c3562b4f3fb28956e8284e685647ae"
   },
   {
-   "p": "assets/profile-B1pe5yEU.js",
-   "h": "ac5743eacef821e0bb4977f25b86d1c897bb7d6ddac89223807ef5ac55f2dfd2"
+   "p": "assets/profile-DVi27m1C.js",
+   "h": "4f23f0f3bb6177700b58a90416cd04dbd8bf8a162183d64ae00fffa0a83757c7"
   },
   {
-   "p": "assets/questlog-Cfm3EDE2.js",
-   "h": "cfe37a42ac7ac606f86f31269fb8ed6c4b51ab414c77833620c40d92579f4c09"
+   "p": "assets/questlog-2AXrd3Vs.js",
+   "h": "6d013ac2a265670b6250c0702fc087da30dbbb70747681b67eb5f1fec08c7b2f"
   },
   {
-   "p": "assets/replays-n8Y-6ePH.js",
-   "h": "7a6bc9d9decd1be400e24a6dd8faacca8519b73422307c93c817a4b82b6275f0"
+   "p": "assets/replays-utyr4HTV.js",
+   "h": "f3889e519bd68418d0c44d48eac8274478eefc9395891b7e78fea861bdb7485b"
   },
   {
-   "p": "assets/shop-C1GHuvSP.js",
-   "h": "89b1e2c4c673af1ef9c3cccd7c0915b67fa3b84aa0c1038e813fd4f133ba5748"
+   "p": "assets/shop-CjlEcVZq.js",
+   "h": "d1a72cd66c7dd8b2884a48b5147064e68b2bace94413eaf9fe010e1e5c1f20ba"
   },
   {
-   "p": "assets/social-CHRIkmor.js",
-   "h": "d9b71dcf3cad0eeb8b0313501b6d4212f73bff3bd822a96f8127f9f2c47df800"
+   "p": "assets/social-a5kqHiTb.js",
+   "h": "dc13e21a218815d6bfe8329072c9d9bd45f76d266d4f0963af3f6ff11ec0d427"
   },
   {
-   "p": "assets/title-BwcaHGkv.js",
-   "h": "1025c3f57f0f23795913ae239fe91d1c5b0471afd96535ac1183b6f2ebde811e"
+   "p": "assets/title-B6BUYHz1.js",
+   "h": "37927d17f9e6b22c441d1c7a63b5049aa21c510ae3a1d62894daac658bf9d389"
   },
   {
    "p": "icons/apple-touch-icon.png",
@@ -112,7 +112,7 @@
   },
   {
    "p": "index.html",
-   "h": "02462108ada127c79c1386f84e4b3df3cfef1ac904c5c7cdc0d22d4ad243b34b"
+   "h": "a199f51fe80c0714b2ebb086c933e11d4cac604d5d6a652e57f7d684026b015d"
   },
   {
    "p": "manifest.webmanifest",
