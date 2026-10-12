@@ -1,94 +1,98 @@
 {
- "build": 1791802763,
- "made": "2026-10-12T10:59:23.869Z",
+ "build": 1791810299,
+ "made": "2026-10-12T13:04:59.920Z",
  "files": [
   {
-   "p": "assets/analysis-DfCFRMXV.js",
-   "h": "be0738c2619caf1d85c9173a2c6989d05101043b71c894a439b51b3a24f656f1"
+   "p": "assets/analysis-5n8qGJHs.js",
+   "h": "a87d85fdcba58487b26d78e7a68aa3885ee9ffed4f0265cfb550201c5d7f5ea9"
   },
   {
-   "p": "assets/art-BSruoppU.js",
-   "h": "ed68b37af26232d27c23073e6a8c6924420a98dc9e45128e7903a04ed201c4a7"
+   "p": "assets/art-2zjwFYV3.js",
+   "h": "da090ff5e2e9d03f28737afb1f8408e8fb1000a01322dfa96ea6a79a1ba61e3d"
   },
   {
-   "p": "assets/collection-BC4pIdIs.js",
-   "h": "3d33936eeb9ef29df4512a178a4c22f4b86ff24da9f4cb194cb831c19f1d083a"
+   "p": "assets/campaign-CnCF7Zxf.js",
+   "h": "37719248d155b265912287e0d6bb7ed238e9323307177184578c4573ad4acefe"
   },
   {
-   "p": "assets/devstats-B661-0kX.js",
-   "h": "5e3089494115ec94ecf8a303c4aebc02658dd5285e1723c5a5a215858f6811ac"
+   "p": "assets/collection-BDjMwIqD.js",
+   "h": "720f8ece522c92b4469374f6d28d7745d313569bf019fafdf84081509e207663"
   },
   {
-   "p": "assets/draft-xJLKaZlr.js",
-   "h": "4535133a63f8d73cea7e180063790acbd48bc8593ba77b770d6759df230a8d18"
+   "p": "assets/devstats-C_lHy_q5.js",
+   "h": "e58ee799e320fce6260022fe23cc62bdbc2d3f0183b61253cb1b74af76e98044"
   },
   {
-   "p": "assets/drop-a1jKv-Os.js",
-   "h": "2843a2a76af4bc5e456f953ef3afce7c18de00342a99215d93fa5cb15a620220"
+   "p": "assets/draft-DuSXQGFA.js",
+   "h": "0fec0bbb03a31f1122144c529e66fb1ee6cb57b0bb50b3b7b8a4b16c308e5278"
   },
   {
-   "p": "assets/event-B9Ed64DK.js",
-   "h": "4ae202113666fe137fc17523752ae4b7bce27632816546933ce90ff208888769"
+   "p": "assets/drop-CFTKxrTL.js",
+   "h": "21ef5e86cfbd6bb21d9e2a75b20f6847dc4012b93a07ab3b24ca6851c1f3260e"
   },
   {
-   "p": "assets/expedition-CWocznQw.js",
-   "h": "ebe27669953e462d09c19dac92cbed8111a9c9b9c0c49c43f88f12a9e79059f4"
+   "p": "assets/event-Crntoya1.js",
+   "h": "dae89490a6f5c5f23a4e8524cdf952177dbffed4d067030b9ab206b4cdca4bb0"
   },
   {
-   "p": "assets/hall-Bx2tOmq1.js",
-   "h": "c24b009af25b528318fe8127e07a0f98e2eac1d9bc85cebc7b81f4350eba8f12"
+   "p": "assets/expedition-Cjr9Beof.js",
+   "h": "000b800356c09262d8a36ffe9b05ddf0692623a1d7a492743072a1be1a1fc56d"
   },
   {
-   "p": "assets/index--tUFiy-p.js",
-   "h": "1ee01357320d3d157bfb493f61a5af77ce92a6af7212e9a92afd216b5bafebf9"
+   "p": "assets/hall-B-DmOymo.js",
+   "h": "8d066ca9e560e98a4e1f6dd358fd0e50d1a91f1d8def5653af0880f5079ae34d"
   },
   {
-   "p": "assets/lab-DRVbQNnK.js",
-   "h": "c0708246713239def72cad67d2da1e685232c513bd7e322f55f5a7425f275f45"
+   "p": "assets/index-DfkDIoi0.js",
+   "h": "61115f7b1a5c5236db963a16b2030b28e363de55b017c5ac53b7d398bed5f1d3"
   },
   {
-   "p": "assets/ladder-CqoPBhIF.js",
-   "h": "dcacd9f07c2d176d93b432f7d32d4de06c978e21150bfd401ae62bcd37d8d55c"
+   "p": "assets/lab-2eVD2Ceq.js",
+   "h": "f9b6ebf026040a4e02e3de0159d10ee2c1f8c1190b6afb9cababd0fed6ddc3a4"
   },
   {
-   "p": "assets/lessons-BkFVtVkV.js",
-   "h": "114e8cd60a50a1bc6b70f765e8df7a4258f5b87ae07693a0e72c45fda6e88eaa"
+   "p": "assets/ladder-7KPJ-t_Y.js",
+   "h": "498d318f96cd72b259333bb5d23264e4ff0403fdf982b02541f7437799cabc3b"
   },
   {
-   "p": "assets/lobby-DPd_e1Mh.js",
-   "h": "6e5f5e43949418afc7cb4c89353a745dce4757fba584e93e553237599d3097ad"
+   "p": "assets/lessons-C5LmApB3.js",
+   "h": "40dbf84132c46eb3a952f923307acae4b7f2f215299a7eaeda19f73b5ae0c3a7"
   },
   {
-   "p": "assets/netplay-CMVd5OhL.js",
-   "h": "8e49e0384aa64e588ce3edbf9ccee8121b82c7364d2b3b9f0740d83325fbd3fd"
+   "p": "assets/lobby-okfZhvzl.js",
+   "h": "fa9e2ecf08e6b4dddec861214aa0ddf8d005291de7a1026fa10f25778d5a9014"
   },
   {
-   "p": "assets/online-Ir-3CRI-.js",
-   "h": "221656a4b1ad0238b45b0d10d23513bda288f3cfb2cd962ebb8414a7518e635c"
+   "p": "assets/netplay-B1XSvpER.js",
+   "h": "46f30848d812f7a74ec2feff82bab156a32a09f871611f514692a3828afcbaed"
   },
   {
-   "p": "assets/profile-C-9-W5UT.js",
-   "h": "7af6eae90ad2ee2ed90e7edd74e1faa095e559005473b3f0d95eb41a033bb1e0"
+   "p": "assets/online-BWm0eWXl.js",
+   "h": "07410317edf66bd4a0a91268d8bb439bf1cdba923fcc0e37acea8bf391906edd"
   },
   {
-   "p": "assets/questlog-E8TQiUPl.js",
-   "h": "2aefee07e3dbf359782ae50349d0ebd07af0793786f71aa4bd2d8acdd37cd40d"
+   "p": "assets/profile-x9PE-pmN.js",
+   "h": "0f0e93719bb083d5e54b65ee7e4eb5f4585ccb64ef1c672e245d23375e19228e"
   },
   {
-   "p": "assets/replays-tqv6c_RE.js",
-   "h": "e31c06d3b2b3027d5c978c507e762ca6f32d25fb31af097c993af39c49593e70"
+   "p": "assets/questlog-CjZ7bPsX.js",
+   "h": "eb289e4b273c7108f3bc5af37f3510d473fe410e3f2434ec1e9af818f8318718"
   },
   {
-   "p": "assets/shop-D6r9nANN.js",
-   "h": "dbccdff82332080e029b111c21600bdddec59ce47873ae6fbbf230cc19a4427d"
+   "p": "assets/replays-C70SnLpx.js",
+   "h": "f2702ffd4b1dcc00b663fb2f2e66e2819d36b6e8c288bfe68885fc469c3c1758"
   },
   {
-   "p": "assets/social-Cic5qNHa.js",
-   "h": "81d98bbe68976996e4c61e22b882d302a26c150bae4b9955e443bd57ca3781bd"
+   "p": "assets/shop-5vfeDSns.js",
+   "h": "3c5d4421bc2f51f008a5182da89212a6bb19e2a694014a5a8bca2d1f1820edb7"
   },
   {
-   "p": "assets/title-CV504MCO.js",
-   "h": "dd5f8383db84130c6ec1eebd38e032715671d73c4983702683aa6668027b7c6c"
+   "p": "assets/social-rqIlshiq.js",
+   "h": "6d9f6ea038161d3f0e8ef9b850e505a5cf2f1d43df171527eb474b9355102f6f"
+  },
+  {
+   "p": "assets/title-Bg-nHfwo.js",
+   "h": "d79b43c63edad7f4904627b9b0824c26a7facc008a6c8fec294e756a90d499fe"
   },
   {
    "p": "icons/apple-touch-icon.png",
@@ -112,7 +116,7 @@
   },
   {
    "p": "index.html",
-   "h": "93d5156773d1a692c875e12ce50806404bd3392e6330debbfda8db0c489ddbfc"
+   "h": "8c37ba34799d775a641de3d2ca75a44414871d8d732c65695ee8c4b256cffcb8"
   },
   {
    "p": "manifest.webmanifest",
